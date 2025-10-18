@@ -1,0 +1,16 @@
+year,industry,attack_type,records_compromised,total_cost,cost_per_record,downtime_hours,regulatory_fines
+2024,healthcare,ransomware,150000,8500000,167,240,750000
+2024,finance,data_breach,85000,7200000,185,120,1200000
+2024,retail,malware,45000,3500000,128,72,250000
+2024,technology,sql_injection,28000,2800000,150,48,150000
+2024,manufacturing,phishing,15000,1850000,123,24,50000
+2023,healthcare,malware,95000,6200000,165,168,500000
+2023,finance,ransomware,120000,9500000,179,300,1500000
+2023,retail,brute_force,32000,2200000,119,36,75000
+2023,technology,xss,18000,1500000,133,18,25000
+2023,manufacturing,ddos,0,850000,0,96,0
+2022,healthcare,phishing,68000,5100000,175,96,400000
+2022,finance,sql_injection,52000,4800000,192,72,800000
+2022,retail,ransomware,88000,6500000,174,192,350000
+2022,technology,malware,41000,3200000,178,60,120000
+2022,manufacturing,brute_force,22000,1600000,127,30,45000
